@@ -10,6 +10,7 @@ The complete system has been developed, trained, evaluated, and tested locally i
 
 ## 🧠 Model & Approach
 - Architecture: ResNet50
+- Dataset: CASIA 2
 - Framework: PyTorch
 - Learning Type: Transfer Learning
 - Loss Function: Cross Entropy Loss
